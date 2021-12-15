@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namordnik", "Namordnik.csproj", "{027F3973-8260-47C1-9B38-9664CC546C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027F3973-8260-47C1-9B38-9664CC546C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027F3973-8260-47C1-9B38-9664CC546C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027F3973-8260-47C1-9B38-9664CC546C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027F3973-8260-47C1-9B38-9664CC546C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D64043-DBD3-4DE5-8C2E-CB85845D527B}
+	EndGlobalSection
+EndGlobal
