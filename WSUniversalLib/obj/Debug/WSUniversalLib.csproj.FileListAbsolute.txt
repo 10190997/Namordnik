@@ -1,0 +1,6 @@
+D:\legendfolder\колледж\срез 15.12.2021\проект\session2\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+D:\legendfolder\колледж\срез 15.12.2021\проект\session2\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+D:\legendfolder\колледж\срез 15.12.2021\проект\session2\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+D:\legendfolder\колледж\срез 15.12.2021\проект\session2\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+D:\legendfolder\колледж\срез 15.12.2021\проект\session2\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+D:\legendfolder\колледж\срез 15.12.2021\проект\session2\WSUniversalLib\obj\Debug\WSUniversalLib.pdb

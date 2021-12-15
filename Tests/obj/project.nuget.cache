@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vSZxzyuHoHzjf/HEV6YBC5h+hBtyILnbDR7p5a2HQOQBD0a5nO0whaEShrVhpZLvZstaw1poL8sW/I/UFlezQ==",
+  "dgSpecHash": "Kbgt9Y50BILUAyyFv5jt8I3SzcVBoPgzTv3KWxdTJzR9bvaO9Pf87kYxW7CT3NLcyg58X/72cGWz2TLxwQlavQ==",
   "success": true,
-  "projectFilePath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asya\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\asya\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

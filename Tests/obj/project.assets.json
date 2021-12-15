@@ -1660,6 +1660,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "WSUniversalLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WSUniversalLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WSUniversalLib.dll": {}
+        }
       }
     }
   },
@@ -6103,6 +6112,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "WSUniversalLib/1.0.0": {
+      "type": "project",
+      "path": "../WSUniversalLib/WSUniversalLib.csproj",
+      "msbuildProject": "../WSUniversalLib/WSUniversalLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6110,6 +6124,7 @@
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
+      "WSUniversalLib >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
@@ -6120,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj",
+      "projectUniqueName": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj",
+      "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\asya\\.nuget\\packages\\",
-      "outputPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\obj\\",
+      "outputPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6144,7 +6159,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj": {
+              "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

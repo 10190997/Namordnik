@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj": {}
+    "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj": {
+    "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj",
+        "projectUniqueName": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\Tests.csproj",
+        "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\asya\\.nuget\\packages\\",
-        "outputPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\Tests\\obj\\",
+        "outputPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,7 +31,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj": {
+                "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -78,6 +82,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj",
+        "projectName": "WSUniversalLib",
+        "projectPath": "D:\\legendfolder\\колледж\\срез 15.12.2021\\проект\\session2\\WSUniversalLib\\WSUniversalLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
