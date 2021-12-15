@@ -1,4 +1,5 @@
 *.editorconfig
-*.vs
 /bin
 /obj
+/Debug
+/.vs
